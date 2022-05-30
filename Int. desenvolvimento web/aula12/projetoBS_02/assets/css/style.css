@@ -1,0 +1,24 @@
+body{
+
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+section{
+    background-color: rgba(9, 187, 143, 0.733);
+}
+
+article{
+    background-color: rgb(86, 79, 99);
+}
+
+.projetos{
+    background-color: white;
+}
+
+
+

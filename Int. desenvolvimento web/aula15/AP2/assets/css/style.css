@@ -1,0 +1,17 @@
+header .img{
+    background: url(./img/banner.jpg);
+    height: 250px;
+    background-size: cover;
+
+}
+nav{
+    background-color:cadetblue;
+}
+
+footer{
+    background-color:cadetblue;
+}
+
+.cols{
+    padding: 10px;
+}
